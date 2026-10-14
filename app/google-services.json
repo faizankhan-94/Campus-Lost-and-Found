@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "717299544506",
+    "firebase_url": "https://campusconnect-dc035-default-rtdb.firebaseio.com",
+    "project_id": "campusconnect-dc035",
+    "storage_bucket": "campusconnect-dc035.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717299544506:android:9dd984cf809bb32a0dad83",
+        "android_client_info": {
+          "package_name": "com.faiz.campuslostfound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbyFrsIK2O5L0gkwgZB8a4zd_LTG6lKjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
